@@ -1,0 +1,76 @@
+[29-Mar-2024 01:09:24 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 2
+[29-Mar-2024 01:09:26 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 2
+[29-Mar-2024 01:09:27 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 2
+[29-Mar-2024 01:09:27 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 2
+[29-Mar-2024 01:09:27 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 2
+[29-Mar-2024 01:09:28 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 2
+[29-Mar-2024 01:09:28 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 2
+[29-Mar-2024 01:18:08 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 27
+[29-Mar-2024 01:18:08 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 27
+[29-Mar-2024 01:18:08 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 27
+[29-Mar-2024 01:18:08 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 27
+[29-Mar-2024 01:18:08 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 27
+[29-Mar-2024 01:18:08 UTC] PHP Warning:  Undefined variable $datesDistinctes in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 51
+[29-Mar-2024 01:18:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/index.php on line 51
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 24
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  Undefined variable $datesDistinctes in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 56
+[29-Mar-2024 01:42:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 56
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 24
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  Undefined variable $datesDistinctes in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 56
+[29-Mar-2024 01:42:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 56
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 24
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 23
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "unite" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 26
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined array key "date" in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 29
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  Undefined variable $datesDistinctes in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 56
+[29-Mar-2024 01:42:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 56
+[29-Mar-2024 01:48:15 UTC] PHP Warning:  file_get_contents(donnees.json): Failed to open stream: No such file or directory in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 19
+[29-Mar-2024 01:49:56 UTC] PHP Warning:  file_get_contents(donnees.json): Failed to open stream: No such file or directory in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 19
+[29-Mar-2024 14:32:00 UTC] PHP Warning:  file_get_contents(donnees.json): Failed to open stream: No such file or directory in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 19
+[30-Mar-2024 10:25:04 UTC] PHP Warning:  file_get_contents(donnees.json): Failed to open stream: No such file or directory in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 19
+[30-Mar-2024 17:16:03 UTC] PHP Warning:  file_get_contents(donnees.json): Failed to open stream: No such file or directory in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer_perte.php on line 19
+[03-Apr-2024 02:19:31 UTC] PHP Warning:  file_get_contents(donnees.json): Failed to open stream: No such file or directory in /home/poma4824/perte-mcdo.blacksilent56.xyz/dev/equipier/enregistrer-perte.php on line 12
+[03-Apr-2024 02:57:04 UTC] PHP Warning:  file_get_contents(donnees.json): Failed to open stream: No such file or directory in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer-perte.php on line 12
+[03-Apr-2024 03:24:07 UTC] PHP Warning:  file_get_contents(donnees.json): Failed to open stream: No such file or directory in /home/poma4824/perte-mcdo.blacksilent56.xyz/equipier/enregistrer-perte.php on line 12
